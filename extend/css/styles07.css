@@ -1,7 +1,7 @@
 /*
-Author:
-Date:
-File Name: 
+Author: Stephen Davis
+Date: October 24, 2022
+File Name: styles07.css
 */
 
 /* CSS Reset */
@@ -29,6 +29,10 @@ header {
 /* Style rules for main content  */
 main {
 	background-color: #fff;
+}
+
+.container {
+  column-count: 3;
 }
 
 aside {
